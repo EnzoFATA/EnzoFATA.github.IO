@@ -1,0 +1,34 @@
+body{
+    background: burlywood;
+    
+    
+}
+h1{
+    font-weight:700;
+    font-style: italic;
+    text-decoration: underline;
+    gap: 100px; 
+    padding: 1em;
+    display: list-item;
+}
+header{
+    display: flex; ;
+    justify-content: space-between;
+}
+main{
+    text-align: center;
+}
+ul{
+    display: inline-block;
+    
+}
+.border{
+    border: 3px solid black 
+}
+p,li{
+    font-size: 1.5em;
+    padding: 5px;
+}
+span:hover{
+    color: aliceblue;
+}
